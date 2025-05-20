@@ -43,14 +43,14 @@ class _HomePageState extends State<HomePage>
           makePage(
               page: 1,
               image:
-                  'https://github.com/Emilio-Renteria-1093/Act1-U3-1093/blob/main/ChatGPT%20Image%2016%20may%202025,%2001_02_55.png?raw=true',
+                  'https://raw.githubusercontent.com/Emilio-Renteria-1093/CompuTelNet_imagenes_app_flutter/refs/heads/main/ChatGPT%20Image%2029%20abr%202025%2C%2022_24_33%201.png',
               title: 'CompuTelNet la mejor dsitribuidor ',
               description:
                   'Estan en la mejor distribuidora de productos y servicios de red y de seguridad privada en equipo de videobigilancia.'),
           makePage(
               page: 2,
               image:
-                  'https://github.com/Emilio-Renteria-1093/Act1-U3-1093/blob/main/ChatGPT%20Image%2029%20abr%202025,%2022_24_33%201.png?raw=true',
+                  'https://raw.githubusercontent.com/Emilio-Renteria-1093/CompuTelNet_imagenes_app_flutter/refs/heads/main/0520d6da-3b70-4bd5-82e7-541c168d3199-profile_image-300x300.png',
               title: 'Has tu propia casa inteligente con la mejor tecnologia',
               description:
                   'Encontraras todo para poder un entorno tecnoligico al alcance de tu mano.'),
@@ -58,14 +58,14 @@ class _HomePageState extends State<HomePage>
               page: 3,
               image:
               
-                  'https://github.com/Emilio-Renteria-1093/Act1-U3-1093/blob/main/image.png?raw=true',
+                  'https://raw.githubusercontent.com/Emilio-Renteria-1093/CompuTelNet_imagenes_app_flutter/refs/heads/main/descarga%20(razer-producto).jpeg',
               title: 'Las mejores tecnologias para tu hogar',
               description:
                   'Encontraras las mejores y mas nuevas tecnoligias para tu hogar.'),
           makePage(
               page: 4,
               image:
-                  'https://github.com/Emilio-Renteria-1093/Act1-U3-1093/blob/main/descarga%20(razer-producto).jpg?raw=true',
+                  'https://raw.githubusercontent.com/Emilio-Renteria-1093/CompuTelNet_imagenes_app_flutter/refs/heads/main/ChatGPT%20Image%2016%20may%202025%2C%2001_02_55.png',
               title: 'Las mejores accesorios para ti con las mejores marcas',
               description:
                   'Las mejores y mas duraderas marcas que encontraras en el mercado.'),
