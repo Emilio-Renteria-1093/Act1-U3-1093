@@ -3,6 +3,16 @@
 A new Flutter project.
 
 ## Resultados
+![image](https://github.com/user-attachments/assets/d9fe1526-e6ab-4aad-a11d-cb821580e04a)
+
+![image](https://github.com/user-attachments/assets/e27b1c46-4256-412b-87f1-ab036148c014)
+
+![image](https://github.com/user-attachments/assets/98f554c1-bd56-4487-8d5c-228d82758086)
+
+![image](https://github.com/user-attachments/assets/e71b09cb-5c64-4efd-aa77-055bc4883313)
+
+
+
 es todo
 ## Getting Started
 
